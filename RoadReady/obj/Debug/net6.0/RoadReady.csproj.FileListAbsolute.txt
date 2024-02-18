@@ -1,0 +1,206 @@
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\appsettings.Development.json
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\appsettings.json
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.exe
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.deps.json
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.runtimeconfig.json
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.pdb
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Humanizer.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.AssemblyReference.cache
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.AssemblyInfoInputs.cache
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.AssemblyInfo.cs
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.CoreCompileInputs.cache
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cs
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cache
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.build.json
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.development.json
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.RoadReady.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.build.RoadReady.props
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RoadReady.props
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RoadReady.props
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\scopedcss\bundle\RoadReady.styles.css
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.CopyComplete
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\refint\RoadReady.dll
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.pdb
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.genruntimeconfig.cache
+E:\Hexaware training\RoadReady\API\RoadReadySolution\RoadReady\obj\Debug\net6.0\ref\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.AssemblyReference.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.AssemblyInfoInputs.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.AssemblyInfo.cs
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.CoreCompileInputs.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\refint\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.pdb
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\appsettings.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.exe
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.deps.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.runtimeconfig.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.pdb
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.RoadReady.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.build.RoadReady.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RoadReady.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RoadReady.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\scopedcss\bundle\RoadReady.styles.css
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.CopyComplete
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.genruntimeconfig.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\hemant\RoadReadySolution\RoadReady\obj\Debug\net6.0\ref\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\appsettings.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.exe
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.deps.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.runtimeconfig.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\RoadReady.pdb
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.AssemblyReference.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.AssemblyInfoInputs.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.AssemblyInfo.cs
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.CoreCompileInputs.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.RoadReady.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.build.RoadReady.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RoadReady.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RoadReady.props
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\scopedcss\bundle\RoadReady.styles.css
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.csproj.CopyComplete
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\refint\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.pdb
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\RoadReady.genruntimeconfig.cache
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\obj\Debug\net6.0\ref\RoadReady.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SUDHARANI SUVVARI\OneDrive\Desktop\.net fsd proj roadready\RoadReadySolution\RoadReady\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
